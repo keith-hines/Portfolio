@@ -1,0 +1,89 @@
+statusId,status,Error
+1,Finished,-
+2,Disqualified,Disqualified
+3,Accident,Race Damage
+4,Collision,Race Damage
+5,Engine,Mechanical
+6,Gearbox,Mechanical
+7,Transmission,Mechanical
+8,Clutch,Mechanical
+9,Hydraulics,Mechanical
+10,Electrical,Mechanical
+20,Spun off,Driver
+21,Radiator,Mechanical
+22,Suspension,Mechanical
+23,Brakes,Mechanical
+24,Differential,Mechanical
+25,Overheating,Mechanical
+26,Mechanical,Mechanical
+27,Tyre,Race Damage
+28,Driver Seat,Mechanical
+29,Puncture,Race Damage
+30,Driveshaft,Mechanical
+32,Fuel pressure,Mechanical
+33,Front wing,Race Damage
+34,Water pressure,Mechanical
+36,Wheel,Mechanical
+37,Throttle,Mechanical
+38,Steering,Mechanical
+39,Technical,Mechanical
+40,Electronics,Mechanical
+41,Broken wing,Race Damage
+42,Heat shield fire,Race Damage
+43,Exhaust,Mechanical
+44,Oil leak,Mechanical
+46,Wheel rim,Race Damage
+47,Water leak,Mechanical
+48,Fuel pump,Mechanical
+49,Track rod,Mechanical
+51,Oil pressure,Mechanical
+56,Engine fire,Fire
+129,Engine misfire,Mechanical
+59,Tyre puncture,Race Damage
+63,Pneumatics,Mechanical
+64,Handling,Mechanical
+65,Rear wing,Race Damage
+66,Fire,Fire
+67,Wheel bearing,Mechanical
+68,Physical,Injury/Illness
+69,Fuel system,Mechanical
+70,Oil line,Mechanical
+71,Fuel rig,Mechanical
+72,Launch control,Mechanical
+73,Injured,Injury/Illness
+75,Power loss,Mechanical
+76,Vibrations,Mechanical
+79,Drivetrain,Mechanical
+81,Did not qualify,Didn't Qualify
+82,Injury/Injury/Illness,Injury/Illness
+83,Chassis,Mechanical
+84,Battery,Mechanical
+85,Stalled,Driver
+86,Halfshaft,Mechanical
+87,Crankshaft,Mechanical
+91,Alternator,Mechanical
+94,Oil pump,Mechanical
+95,Fuel leak,Mechanical
+98,Injection,Mechanical
+99,Distributor,Mechanical
+100,Driver unwell,Injury/Illness
+101,Turbo,Mechanical
+102,CV joint,Mechanical
+103,Water pump,Mechanical
+105,Spark plugs,Mechanical
+106,Fuel pipe,Mechanical
+107,Eye Injury/Injury/Illness,Injury/Illness
+108,Oil pipe,Mechanical
+109,Axle,Mechanical
+110,Water pipe,Mechanical
+126,Supercharger,Mechanical
+130,Collision damage,Race Damage
+131,Power Unit,Mechanical
+132,ERS,Mechanical
+135,Brake duct,Mechanical
+136,Seat,Mechanical
+137,Damage,Race Damage
+138,Debris,Race Damage
+139,Injury/Illness,Injury/Illness
+140,Undertray,Race Damage
+141,Cooling system,Race Damage
